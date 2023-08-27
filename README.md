@@ -1,2 +1,3 @@
 # Programacion
-Colección de tutoriales y manuales escritos por la comunidad de habla Hispana 
+
+En este repositorio mantendremos una lista de tutoriales sobre diferentes temas relacionados con la informática
